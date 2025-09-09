@@ -38,8 +38,5 @@ Tüm satırlar girildikten sonra matrisi ekrana yazdırın. */
             }
             System.out.println();
         }
-
-
-
     }
 }
